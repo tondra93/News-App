@@ -1,0 +1,7 @@
+While doing this assignment I faced problems in case of using bloc as I worked very few with bloc state management. So, I had to take help from different documentations and youtube. 
+
+These are the sites which helped me a lot:
+1. https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5
+2. https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o
+
+ 
