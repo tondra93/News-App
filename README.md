@@ -1,4 +1,4 @@
-# News App with Flutter BLoC
+# News App
 
 This is a very simple and amateur news app written in flutter with bloc state management.
 
